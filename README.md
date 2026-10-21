@@ -137,8 +137,6 @@ Replace the empty values with your own credentials.
 
 Check the backend source code for any additional required environment variables. Variable names must match those referenced in the application.
 
-**Security note:** Never commit your `.env` file, database credentials, JWT secrets, or API keys to GitHub.
-
 Start the backend development server:
 
 ```bash
